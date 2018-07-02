@@ -8,8 +8,8 @@
  This is a warning
 {% endhint %}
 
-{% hint style="error" %}
- This is an error
+{% hint style="danger" %}
+ This is dangerous
 {% endhint %}
 
 {% hint style="success" %}
